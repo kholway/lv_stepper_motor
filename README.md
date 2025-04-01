@@ -9,4 +9,4 @@ This is a project I built in LabVIEW to provide control for a stepper motor. Inp
 ![Diagram of program logic](./block_diagram.png)
 
 ## Usage
-Viewing the code requires LabVIEW. Using the code would require DAQ-MX drivers, an appropriate NI DAQ device, and, of course, a stepper motor to be controlled. The proram would need to be modified so that the signal corresponds to the specs of the motor in question.
+Viewing the code requires LabVIEW. Using the code would require DAQ-MX drivers, an appropriate NI DAQ device, and, of course, a stepper motor to be controlled. The program would need to be modified so that the signal corresponds to the specs of the motor in question.
